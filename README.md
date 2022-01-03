@@ -19,8 +19,8 @@ Note that you can run the code both using CPUs, GPUs, and TPUs. If you run the c
 | ------------------ | --- | --- |
 | *Introduction to Norse* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norse/notebooks/blob/master/introduction-to-norse.ipynb) | First encouter with Norse |
 | *Simulating and plotting spiking data* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norse/notebooks/blob/master/spiking_introduction.ipynb) | Learn how to describe and visualise event data |
-| *Encoding data to spikes* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norse/notebooks/blob/master/encoding.ipynb) | Learn how to encode conventional data into spikes |
-| *Single Neuron Experiments* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norse/notebooks/blob/master/single-neuron-experiments.ipynb) | Learn how single neurons behave |
+| *Encoding data to spikes* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/russelljjarvis/notebooks/blob/master/encoding.ipynb) | Learn how to encode conventional data into spikes |
+| *Single Neuron Experiments* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/russelljjarvis/notebooks/blob/master/single-neuron-experiments.ipynb) | Learn how single neurons behave |
 
 ## Level: Intermediate
 
